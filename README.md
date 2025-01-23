@@ -20,4 +20,3 @@
 * [PaLM: Scaling Language Modeling with Pathways (Chowdhery et al., 2022)](https://arxiv.org/pdf/2204.02311)
 * [LLaMA: Open and Efficient Foundation Language Models (Touvron et al.)](https://arxiv.org/pdf/2302.13971)
 * [GPT-4 Technical Report (OpenAI)](https://arxiv.org/pdf/2303.08774)
-* 
