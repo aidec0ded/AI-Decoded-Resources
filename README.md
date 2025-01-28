@@ -24,4 +24,4 @@
 * [Scaling Laws for Neural Language Models](https://arxiv.org/pdf/2001.08361)
 * [Training Language Models to Follow Instructions with Human Feedback](https://arxiv.org/pdf/2203.02155)
 * [Towards Understanding Sycophancy in Language Models](https://arxiv.org/pdf/2310.13548)
-* [Direct Preference Optimization: Your Language Model Is Secretly an Award Model](https://arxiv.org/pdf/2305.18290)
+* [Direct Preference Optimization: Your Language Model Is Secretly a Reward Model](https://arxiv.org/pdf/2305.18290)
